@@ -15,7 +15,7 @@ This is my professional portfolio website showcasing my skills as a Full-Stack D
 - [ ] Admin Dashboard for managing content
 
 ## 📸 Preview
-![Portfolio Preview](./assets/ws-bg.jpg) 
+(./assets/overView.PNG) 
 
 ## 🔗 Live Demo:
 https://jahir-tawhid.github.io/personal-portfolio/)
